@@ -27,3 +27,9 @@ To deploy the notebook, you will have to register for Databricks Community Noteb
 ![](/docs/assets/images/best_recovery.png)
 
 ![](/docs/assets/images/worst_affected.png)
+
+
+##### Live View
+<hr/>
+
+I have published this notebook on the [databricks platform](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/4934413682525655/2276315590266907/36285253315984/latest.html) and it will be active for next 6 months
