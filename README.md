@@ -16,4 +16,14 @@ Both datasets are registered as tables and then analyzed. The notebook reflects 
 3. Most affected countries based on deaths per million
 
 ##### Deployment
-To deploy the notebook, you will have to register for Databricks Community Notebook platform. After the registration you will be able to import the notebooks from this repository 
+<hr/>
+To deploy the notebook, you will have to register for Databricks Community Notebook platform. After the registration you will be able to import the notebooks from this repository
+
+##### Output
+<hr/>
+
+![](/docs/assets/images/worst_recovery.png) 
+
+![](/docs/assets/images/best_recovery.png)
+
+![](/docs/assets/images/worst_affected.png)
